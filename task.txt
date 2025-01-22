@@ -7,7 +7,7 @@
 73, 2000, 40, "Kevin Spacey", "American Beauty"
 89, 2016, 41, "Leonardo DiCaprio", "The Revenant"
 22, 1949, 41, "Laurence Olivier", "Hamlet"
- 1, 1928, 44, "Emil Jannings", "The Last Command, The Way of All Flesh"
+ 1, 1928, 44, "Emil Jannings", "The Last Command The Way of All Flesh"
 69, 1996, 32, "Nicolas Cage", "Leaving Las Vegas"
 57, 1984, 53, "Robert Duvall", "Tender Mercies"
 83, 2010, 60, "Jeff Bridges", "Crazy Heart"
